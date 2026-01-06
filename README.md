@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joseph-schwartz
-- 👀 I’m interested in video game development and design.
-- 🌱 I’m currently exploring and developing with AI Tools and Unreal Engine 5 and Unity.
+- 👀 I’m a senior video game engineer with expertise in generative AI both in coding and gameplay.
+- 🌱 I’m currently developing games and generative AI in Unreal Engine .
 - 📫 How to reach me is through my email: Joseph.Robert.Schwartz@gmail.com
 
 <!---
